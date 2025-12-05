@@ -1,0 +1,17 @@
+{
+    "dependencies": {
+        "axios": "^1.13.2",
+        "express": "^5.2.1"
+    },
+    "name": "backend",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "dev": "node --watch index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Diwakar prasad",
+    "license": "ISC",
+    "description": ""
+}
